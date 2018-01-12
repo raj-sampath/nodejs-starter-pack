@@ -6,3 +6,4 @@ This is a NodeJs starter kit for individuals that are starting out with NodeJs, 
 3. AWS Services with the Amzon AWS Javascript toolkit(aws-sdk).
 4. Scheduler Setup using the Node Schedule(node-schedule).
 5. Email Service Integration using the Node Mailer(nodemailer).
+6. Social Authentication for Facebook, Twitter & GooglePlus using PassportJs(passport).
